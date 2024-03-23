@@ -80,3 +80,4 @@ if __name__ == "__main__":
     response = query_index("What is the principle of operation of DC generator in this document")
     # Print the response
     print(response)
+    
